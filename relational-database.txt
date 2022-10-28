@@ -1,0 +1,28 @@
+Describe the structure of a relational database as tables, related thru the use of keys and foreign keys
+define primary keys
+definr foreign keys
+
+Relational database 
+  :: is a database structured to recognize relations among stored items. 
+
+Relational Database Structure
+  :: primary keys and foreign keys, feature that allows establishment b2n multiple tables
+
+  :: Primary key ... 
+      :column in a table with an identifier(ID) thatidentifies one specific record/row in a table
+
+  :: Foreign key ...
+      :column in from one table that refers to a primary key in another table
+
+  
+
+
+
+
+
+
+
+
+
+
+
